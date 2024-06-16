@@ -9,8 +9,8 @@
 #include <Eigen/Core>
 #include <Eigen/Geometry>
 
-#include <sophus/se3.hpp>
-#include <sophus/so3.hpp>
+#include <sophus/se3.h>
+#include <sophus/so3.h>
 
 #include <opencv2/core/eigen.hpp>
 
